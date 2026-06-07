@@ -1,0 +1,131 @@
+body {
+    font-family: "Gelasio", serif;
+    margin: 0;
+}
+
+/* Header Styles */
+header {
+    background-color: #315259;
+    color: white;
+    padding: 1rem 10px;
+    text-align: center;
+}
+
+header span {
+    font-size: 1.9rem;
+    font-weight: bold;
+    color: #d5d9ba;
+}
+
+h2 span {
+    color: #d5d9ba;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+/* Navigation Styles */
+nav {
+    background-color: #d5d9ba;
+    padding: 0.01rem 10px 0rem 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0 10px;
+    display: flex;
+}
+
+nav a {
+    display: block;
+    padding: 1rem;
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: #315259;
+    font-weight: 400;
+}
+
+nav li a:hover {
+    background-color: #315259;
+    color: white;
+}
+
+nav .dachshund a {
+    background-color: #315259;
+    color: white;
+}
+
+/* Main Content Styles */
+main {
+    padding: 15px;
+}
+
+main h1 {
+    color: #548c8c;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+main h2 {
+    color: #315259;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+main p {
+    color: #333;
+}
+
+main ul {
+    list-style-type: square;
+    padding-left: 10px;
+}
+main ul li {
+    color: #333;
+    font-size: 1rem;
+}
+
+main strong {
+    font-weight: 700;
+    color: #548c8c;
+}
+
+main dl {
+    margin-left: 20px;
+    font-size: 1rem;
+    color: #333;
+}
+
+main dt {
+    font-weight: 700;
+    color: #548c8c;
+}
+
+main em {
+    font-style: italic;
+    color: #548c8c;
+}   
+
+main strong {
+    font-weight: bold;
+    color: #548c8c;
+}
+
+address {
+    font-style: italic;
+    color: #333;
+    background-color: #d99982;
+    padding: 0px; 
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 200px 
+}
+
+/* Footer Styles */
+footer {
+    background-color: #315259;
+    color: white;
+    text-align: center;
+    padding: 1rem 10px;
+    margin-top: 20px;
+}
