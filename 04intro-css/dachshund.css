@@ -17,12 +17,6 @@ header span {
     color: #d5d9ba;
 }
 
-h2 span {
-    color: #d5d9ba;
-    font-size: 1.2rem;
-    font-weight: bold;
-}
-
 /* Navigation Styles */
 nav {
     background-color: #d5d9ba;
